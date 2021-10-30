@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaa539b36ac51557c72cb9108ca222c12a064f486",
+  "SCAN_LINK": "https://polygonscan.com/token/0xaa539b36ac51557c72cb9108ca222c12a064f486",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Orc Pixel",
+  "SYMBOL": "OPx",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/orc-pixel",
+  "SHOW_BACKGROUND": true
+}
